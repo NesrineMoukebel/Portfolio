@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.44f834a2.css",
+    "main.js": "/Portfolio/static/js/main.3623b84f.js",
+    "static/js/872.30766057.chunk.js": "/Portfolio/static/js/872.30766057.chunk.js",
+    "static/js/227.058241a6.chunk.js": "/Portfolio/static/js/227.058241a6.chunk.js",
+    "static/js/526.3c121522.chunk.js": "/Portfolio/static/js/526.3c121522.chunk.js",
+    "static/js/232.dbb24e79.chunk.js": "/Portfolio/static/js/232.dbb24e79.chunk.js",
+    "static/js/237.af4bf243.chunk.js": "/Portfolio/static/js/237.af4bf243.chunk.js",
+    "static/media/Food.png": "/Portfolio/static/media/Food.f1bd6bbaa3b75a9504a3.png",
+    "static/media/Nike.png": "/Portfolio/static/media/Nike.34c05f0296ba1d3c0a71.png",
+    "static/media/Bicycle.png": "/Portfolio/static/media/Bicycle.95098e1853cef644d9d8.png",
+    "static/media/shape.png": "/Portfolio/static/media/shape.d3688428242faf1ed237.png",
+    "static/media/contactDeco.png": "/Portfolio/static/media/contactDeco.d106e3224ce68ff47239.png",
+    "index.html": "/Portfolio/index.html",
+    "main.44f834a2.css.map": "/Portfolio/static/css/main.44f834a2.css.map",
+    "main.3623b84f.js.map": "/Portfolio/static/js/main.3623b84f.js.map",
+    "872.30766057.chunk.js.map": "/Portfolio/static/js/872.30766057.chunk.js.map",
+    "227.058241a6.chunk.js.map": "/Portfolio/static/js/227.058241a6.chunk.js.map",
+    "526.3c121522.chunk.js.map": "/Portfolio/static/js/526.3c121522.chunk.js.map",
+    "232.dbb24e79.chunk.js.map": "/Portfolio/static/js/232.dbb24e79.chunk.js.map",
+    "237.af4bf243.chunk.js.map": "/Portfolio/static/js/237.af4bf243.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44f834a2.css",
+    "static/js/main.3623b84f.js"
+  ]
+}
